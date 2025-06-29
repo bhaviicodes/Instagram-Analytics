@@ -1,2 +1,2 @@
-# Instagram-Analytics
+# Instagram-Analytics by Bhavisha M Ahuja(653160655)
 This tool takes a peek at public Instagram bios from your list of usernames and figures out the vibe behind each profile using sentiment analysis and smart keyword detection. Whether you're a social media manager trying to understand your different audience groups, or you run meme pages and want to find accounts that match your energy, this makes it easy to sort through profiles and see who's who. It's like having a research assistant that actually gets the nuances of online personality."
